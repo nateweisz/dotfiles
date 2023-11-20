@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+    "workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
+    "vscord.status.details.text.editing": "🔧 {file_name} (Line {current_line}:{current_column})",
+    "vscord.status.details.text.idle": "💤 Idling",
+    "vscord.status.details.text.notInFile": "🗄️ No file open",
+    "vscord.status.state.text.debugging": "Debugging {workspace}",
+    "vscord.status.image.large.editing.text": "🗄️ \\\"{LANG}\\\"",
+    "editor.fontSize": 15,
+    "files.autoSave": "onWindowChange",
+    "vscord.app.name": "Visual Studio Code",
+    "explorer.confirmDelete": false,
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+    "workbench.iconTheme": "a-file-icon-vscode",
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true
+  }
