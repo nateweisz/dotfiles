@@ -8,5 +8,6 @@ killall -q i3bar
 
 # Launch Polybar, using default config location ~/.config/polybar/config.ini
 polybar main &
+polybar second &
 
 echo "Polybar launched..."
