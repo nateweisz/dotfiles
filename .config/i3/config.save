@@ -421,7 +421,6 @@ exec --no-startup-id /usr/bin/dunst
 # system moniter workspace #
 ############################
 
-exec --no-startup-id ~/.config/i3/scripts/system-moniter.sh
 
 ###############
 # system tray #
