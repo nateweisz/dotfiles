@@ -335,7 +335,7 @@ set $ws10 "10"
 # bind program to workspace and focus to them on startup:
 assign [class="(?i)firefox"] $ws2
 assign [class="Thunar"] $ws3
-assign [class="thunderbird"] $ws4
+assign [class="thunderbird"] $ws5
 assign [class="TelegramDesktop"] $ws5
 
 # automatic set focus new window if it opens on another workspace than the current:
@@ -413,6 +413,8 @@ exec --no-startup-id /usr/bin/dunst
 ############################
 
 exec --no-startup-id ~/.config/i3/scripts/system-moniter.sh
+exec --no-startup-id telegram-desktop
+exec --no-startup-id thunderbird
 
 ###############
 # system tray #

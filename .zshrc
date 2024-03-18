@@ -105,3 +105,4 @@ alias rss="/home/nopox/.cargo/bin/russ read -d /home/nopox/.config/russ/feeds.db
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 echo ""
 neofetch
+export GPG_TTY=$(tty)
